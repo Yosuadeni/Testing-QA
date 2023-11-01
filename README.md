@@ -7,11 +7,11 @@ Yosua Deni Xaverius Parengkuan
 
 ## Implementasinya:
 <img width="960" alt="1" src="https://github.com/Yosuadeni/Testing-QA/blob/main/assets/awal.png">
-### Instalasi:
+* Instalasi:
 <img width="960" alt="1" src="https://github.com/Yosuadeni/Testing-QA/blob/main/assets/installng.png">
-### Testing :
+* Testing :
 <img width="960" alt="1" src="https://github.com/Yosuadeni/Testing-QA/blob/main/assets/test.png">
-### Report Testing :
+* Report Testing :
 <img width="960" alt="1" src="https://github.com/Yosuadeni/Testing-QA/blob/main/assets/report%20test.png">
 
 

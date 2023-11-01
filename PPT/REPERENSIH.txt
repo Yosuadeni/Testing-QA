@@ -1,0 +1,14 @@
+https://www.dicoding.com/blog/white-box-testing/
+https://www.linkedin.com/pulse/mengenal-metode-white-box-testing-untuk-pengujian-software-henny/?originalSubdomain=id
+https://www.ianswer4u.com/2016/11/advantages-and-disadvantages-of-white.html
+https://codingstudio.id/blog/white-box-testing-adalah/#:~:text=5%20Kesimpulan-,Fungsi%20Whitebox%20Testing,penguji%2C%20maupun%20personel%20penjamin%20kualitas.
+https://accurate.id/marketing-manajemen/unit-testing/
+https://muklasr.medium.com/unit-testing-45fbf725e780
+Guru99, 2020. Unit Testing Tutorial: What is, Types, Tools, EXAMPLE. [online] guru99.com. Available at: <https://www.guru99.com/unit-testing-guide.html> [Accessed 9 October 2020].
+Guru99, 2020. Levels of Testing in Software Testing. [online] guru99.com. Available at: <https://www.guru99.com/levels-of-testing.html> [Accessed 9 October 2020]
+https://glints.com/id/lowongan/unit-testing-adalah/
+https://www.tutorialspoint.com/software_testing_dictionary/unit_testing.htm
+https://www.geeksforgeeks.org/gray-box-testing-software-testing/
+
+
+ unit test adalah bagian integral dari praktik pengujian perangkat lunak yang membantu meminimalkan kesalahan, meningkatkan kepercayaan dalam kode, dan memastikan bahwa perangkat lunak berfungsi dengan baik. Unit test juga memainkan peran penting dalam pengembangan berkelanjutan dan refaktorisasi kode.

@@ -1,7 +1,6 @@
-# Testing-QA
-# UTS 
+# UTS Testing-QA
 
-Yosua Deni Xaverius Parengkuan
+Yosua Deni Xaverius Parengkuan ||
 201011401897
   
 
